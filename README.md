@@ -1,16 +1,15 @@
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vintaverse.ai) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/diwakar-kalia-77b9a153) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@vintaverse.com) 
-<!-- Snake Game Repo View -->
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vintaverse.ai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diwakar-kalia-77b9a153)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@vintaverse.com)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=1&section=header&reversal=false" />
 </div>
 
-# 💻 Tech Stack:
-Here’s a clean, professional **Tech Stack section in code-style Markdown** you can paste directly into your GitHub company profile:
+# 💻 Tech Stack
 
-```md
 ## 🚀 Tech Stack
 
 **Design**
@@ -52,6 +51,8 @@ Here’s a clean, professional **Tech Stack section in code-style Markdown** you
 - Jira / Trello
 - Postman
 
+---
+
 ## 📊 GitHub Insights
 
 <p align="center">
@@ -87,7 +88,6 @@ Here’s a clean, professional **Tech Stack section in code-style Markdown** you
   <img src="https://github-contributor-stats.vercel.app/api?username=Vintaverse-k&limit=6&theme=dark&combine_all_yearly_contributions=true" />
 </p>
 
----
 
 ## 👁️ Profile Views
 
