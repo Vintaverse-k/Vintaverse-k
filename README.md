@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@vintaverse.com)
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=1&section=header&reversal=false" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=120&color=0:141E30,100:243B55&section=footer" />
 </div>
 
 # 💻 Tech Stack
