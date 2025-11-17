@@ -5,7 +5,10 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@vintaverse.com)
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=120&color=0:141E30,100:243B55&section=footer" />
+  <img 
+    src="https://raw.githubusercontent.com/Vintaverse-k/Vintaverse-k/output/github-contribution-grid-snake-dark.svg" 
+    alt="GitHub contribution snake animation" 
+  />
 </div>
 
 # 💻 Tech Stack
