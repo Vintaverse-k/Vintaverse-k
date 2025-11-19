@@ -26,8 +26,7 @@ Vintaverse is a digital innovation company creating seamless user experiences an
 
 [![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
 
-
-## 🖼️ Vintaverse Projects Click And See More Projects
+<h2>🖼️ Vintaverse Projects — Click & Explore More</h2>
 
 <div align="center">
 
