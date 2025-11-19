@@ -82,8 +82,25 @@ Vintaverse is a digital innovation company creating seamless user experiences an
 ![Prometheus](https://img.shields.io/badge/prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white) 
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 
-<!-- Snake Game Repo View -->
+## 🖼️ Vintaverse Projects
 
+<div align="center">
+
+<!-- Row 1 -->
+<img src="https://github.com/Vintaverse-k/Catalogs/blob/5e0417cff295240925d1e989de6daf78428c39d9/assets/image.svg" alt="Project 1" width="200" height="120"/>
+<img src="https://github.com/Vintaverse-k/Catalogs/blob/5e0417cff295240925d1e989de6daf78428c39d9/assets/image1.svg" alt="Project 2" width="200" height="120"/>
+<img src="https://github.com/Vintaverse-k/Catalogs/blob/33693c5400dcf196b3b4a61fa2fb3f767547f092/assets/image4.svg" alt="Project 3" width="200" height="120"/>
+
+<!-- Row 2 -->
+<img src="https://github.com/Vintaverse-k/Catalogs/blob/5e0417cff295240925d1e989de6daf78428c39d9/assets/image3.svg" alt="Project 4" width="200" height="120"/>
+<img src="[https://via.placeholder.com/200x120?text=Project+5](https://github.com/Vintaverse-k/Catalogs/blob/33693c5400dcf196b3b4a61fa2fb3f767547f092/assets/image4.svg)" alt="Project 5" width="200" height="120"/>
+<img src="https://github.com/Vintaverse-k/Catalogs/blob/33693c5400dcf196b3b4a61fa2fb3f767547f092/assets/image5.svg" alt="Project 6" width="200" height="120"/>
+
+</div>
+
+
+
+<!-- Snake Game Repo View -->
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
