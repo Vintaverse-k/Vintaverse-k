@@ -1,4 +1,4 @@
-# 🏄‍♂️ Vintaverse
+#  Vintaverse
 
 **`Digital Craftsman (UI/UX Designer / Front-end Engineer / Creator)`**
 
