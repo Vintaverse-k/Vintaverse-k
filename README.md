@@ -12,15 +12,13 @@ Email Us 👉 ✉️ **contact@vintaverse.com** For Collaboration, Projects, or 
 - ⚡ **Fun fact:** We love tech, and tech loves us back!
 
 ## 🌐 Socials:
-[![Website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vintaverse.com) 
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yourinstagram) 
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-lightblue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourtwitter) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin) 
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/yourfacebook) 
-[![Dribbble](https://img.shields.io/badge/Dribbble-Follow-pink?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/yourdribbble) 
-[![Behance](https://img.shields.io/badge/Behance-Follow-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/yourbehance) 
-[![Medium](https://img.shields.io/badge/Medium-Read-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourmedium) 
-[![Email](https://img.shields.io/badge/Email-Write-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alamimran613@live.com)
+## 🌐 Socials:
+[![Website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.vintaverse.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vintaverse.ai/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/vintaverse/) 
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61580315319896) 
+[![Behance](https://img.shields.io/badge/Behance-Follow-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/vintaverse) 
+[![Email](https://img.shields.io/badge/Email-Write-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@vintaverse.com)
 
 [![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
 
