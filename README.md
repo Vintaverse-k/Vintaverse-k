@@ -1,4 +1,5 @@
-#  Vintaverse
+#  Vintaverse 
+#  The Future Era Of Technology
 
 **`Digital Craftsman (UI/UX Designer / Front-end Engineer / Creator)`**
 
@@ -24,15 +25,6 @@ Vintaverse is a digital innovation company creating seamless user experiences an
 [![Email](https://img.shields.io/badge/Email-Write-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@vintaverse.com)
 
 [![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
-
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 # 💻 Tech Stack:
@@ -90,20 +82,40 @@ Vintaverse is a digital innovation company creating seamless user experiences an
 ![Prometheus](https://img.shields.io/badge/prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white) 
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alamimran613&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
 ![](https://github-readme-stats.vercel.app/api?username=alamimran613&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alamimran613&theme=dark&hide_border=false)
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ImranKhanYouTuber) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alamimran613) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ikyoutuber) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@technosnag) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vintaverse.ai/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/vintaverse/) 
+[![Facebook](https://img.shields.io/badge/Facebook-%23007bff.svg?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61580315319896) 
+[![Website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.vintaverse.com)
+[![Behance](https://img.shields.io/badge/Behance-Follow-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/vintaverse) 
+[![Email](https://img.shields.io/badge/Email-Write-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@vintaverse.com)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Vintaverse The Future Era Of Technology
+> "Innovating the digital world, one pixel at a time."  
+> – **Vintaverse Team**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Inspiration-AlwaysBright-orange?style=for-the-badge&logo=appveyor&logoColor=white" alt="Vintaverse Inspiration"/>
+  <img src="https://img.shields.io/badge/Creativity-Unlimited-blue?style=for-the-badge&logo=appveyor&logoColor=white" alt="Vintaverse Creativity"/>
+</div>
+
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=alamimran613&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
+![](https://github-contributor-stats.vercel.app/api?username=Vintaverse-K&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
