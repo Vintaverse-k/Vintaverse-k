@@ -1,17 +1,20 @@
-# 💫 Hi 👋, Welcome to Vintaverse
-**We are a passionate IT Company specializing in UI/UX Design, Front-End Development, and Cloud & DevOps Solutions based in India.**
+# 🏄‍♂️ Vintaverse
 
-Email Us 👉 ✉️ **contact@vintaverse.com** For Collaboration, Projects, or Any Inquiries. 😊
+**`Digital Craftsman (UI/UX Designer / Front-end Engineer / Creator)`**
 
-- 🔭 **Currently working on:** Innovative IT solutions and enterprise projects
-- 🌱 **Currently learning:** Cutting-edge technologies in Cloud, DevOps, and UI/UX
-- 👯 **Looking to collaborate on:** IT projects, Web & Mobile Applications, and Cloud Deployments
-- 🤔 **Looking for help with:** Enterprise-level architecture and scalable solutions
-- 💬 **Ask us about:** Collaboration, Tech Support, and IT Consulting
-- 📫 **How to reach us:** www.vintaverse.com
-- ⚡ **Fun fact:** We love tech, and tech loves us back!
+Vintaverse is a digital innovation company creating seamless user experiences and front-end solutions. All projects are built from the ground up, from planning and designing all the way to solving real-life digital problems.
 
-## 🌐 Socials:
+<p align="left">
+   <a href="https://www.vintaverse.com">
+      <img alt="Visit Website" title="Visit our Website" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=Visit&logo=google-chrome&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
+   <a href="https://www.instagram.com/vintaverse.ai/">
+      <img alt="Instagram" title="Follow on Instagram" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=instagram&logoColor=white&style=for-the-badge&label=Instagram&labelColor=C79600"/></a>
+   <a href="https://www.linkedin.com/company/vintaverse/">
+      <img alt="LinkedIn" title="Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=linkedin&label=Follow&logoColor=white"/></a>
+   <a href="https://github.com/alamimran613?tab=repositories&sort=stargazers">
+      <img alt="GitHub Stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/alamimran613?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+</p>
+
 ## 🌐 Socials:
 [![Website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.vintaverse.com) 
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vintaverse.ai/) 
