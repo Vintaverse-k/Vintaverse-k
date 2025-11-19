@@ -27,6 +27,27 @@ Vintaverse is a digital innovation company creating seamless user experiences an
 [![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
 
 
+## 🖼️ Vintaverse Projects
+
+<div align="center">
+
+<!-- Row 1 -->
+<img src="https://github.com/Vintaverse-k/Catalogs/blob/4392a600eb9a3e8cb1fce32d4dd6cb2c33478367/assets/image1.png" alt="Project 1" width="200" height="120"/>
+<img src="https://github.com/Vintaverse-k/Catalogs/blob/4392a600eb9a3e8cb1fce32d4dd6cb2c33478367/assets/image2.png" alt="Project 2" width="200" height="120"/>
+<img src="https://github.com/Vintaverse-k/Catalogs/blob/4392a600eb9a3e8cb1fce32d4dd6cb2c33478367/assets/image3.png" alt="Project 3" width="200" height="120"/>
+
+<!-- Row 2 -->
+<img src="https://github.com/Vintaverse-k/Catalogs/blob/4392a600eb9a3e8cb1fce32d4dd6cb2c33478367/assets/image4.png" alt="Project 4" width="200" height="120"/>
+<img src="https://github.com/Vintaverse-k/Catalogs/blob/4392a600eb9a3e8cb1fce32d4dd6cb2c33478367/assets/image5.png" alt="Project 5" width="200" height="120"/>
+
+<img src="https://github.com/Vintaverse-k/Catalogs/blob/4392a600eb9a3e8cb1fce32d4dd6cb2c33478367/assets/image6.png" alt="Project 6" width="200" height="120"/>
+
+<img src="https://github.com/Vintaverse-k/Catalogs/blob/4392a600eb9a3e8cb1fce32d4dd6cb2c33478367/assets/image7.png" alt="Project 6" width="200" height="120"/>
+<img src="https://github.com/Vintaverse-k/Catalogs/blob/4392a600eb9a3e8cb1fce32d4dd6cb2c33478367/assets/image8.png" alt="Project 6" width="200" height="120"/>
+
+</div>
+
+
 # 💻 Tech Stack:
 
 ## 🎨 UI/UX Tools
@@ -82,22 +103,6 @@ Vintaverse is a digital innovation company creating seamless user experiences an
 ![Prometheus](https://img.shields.io/badge/prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white) 
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 
-## 🖼️ Vintaverse Projects
-
-<div align="center">
-
-<!-- Row 1 -->
-<img src="https://github.com/Vintaverse-k/Catalogs/blob/5e0417cff295240925d1e989de6daf78428c39d9/assets/image.svg" alt="Project 1" width="200" height="120"/>
-<img src="https://github.com/Vintaverse-k/Catalogs/blob/5e0417cff295240925d1e989de6daf78428c39d9/assets/image1.svg" alt="Project 2" width="200" height="120"/>
-<img src="https://github.com/Vintaverse-k/Catalogs/blob/33693c5400dcf196b3b4a61fa2fb3f767547f092/assets/image4.svg" alt="Project 3" width="200" height="120"/>
-
-<!-- Row 2 -->
-<img src="https://github.com/Vintaverse-k/Catalogs/blob/5e0417cff295240925d1e989de6daf78428c39d9/assets/image3.svg" alt="Project 4" width="200" height="120"/>
-<img src="https://github.com/Vintaverse-k/Catalogs/blob/33693c5400dcf196b3b4a61fa2fb3f767547f092/assets/image6.svg" alt="Project 5" width="200" height="120"/>
-<img src="https://github.com/Vintaverse-k/Catalogs/blob/33693c5400dcf196b3b4a61fa2fb3f767547f092/assets/image5.svg" alt="Project 6" width="200" height="120"/>
-
-</div>
-
 
 
 <!-- Snake Game Repo View -->
@@ -110,9 +115,9 @@ Vintaverse is a digital innovation company creating seamless user experiences an
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alamimran613&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
-![](https://github-readme-stats.vercel.app/api?username=alamimran613&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=alamimran613&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vintaverse-K&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+![](https://github-readme-stats.vercel.app/api?username=Vintaverse-K&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Vintaverse-K&theme=dark&hide_border=false)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vintaverse.ai/) 
